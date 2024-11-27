@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Livroes on Lucas Blog</title>
+    <link>//localhost:1313/livro/</link>
+    <description>Recent content in Livroes on Lucas Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/livro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recomendações</title>
+      <link>//localhost:1313/livro/livro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/livro/livro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Trilogia Duna&lt;/li&gt;
+&lt;li&gt;Eu, Rôbo!&lt;/li&gt;
+&lt;li&gt;Senhor dos Anéis&lt;/li&gt;
+&lt;li&gt;Guia do Mochileiro das Galáxias&lt;/li&gt;
+&lt;li&gt;Fundação&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;Trilogia Duna&lt;/li&gt;
+&lt;li&gt;Eu, Rôbo!&lt;/li&gt;
+&lt;li&gt;Senhor dos Anéis&lt;/li&gt;
+&lt;li&gt;Guia do Mochileiro das Galáxias&lt;/li&gt;
+&lt;li&gt;Fundação&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Lucas Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There</title>
+      <link>//localhost:1313/posts/hello-there/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/hello-there/</guid>
+      <description>&lt;p&gt;General Kenobiiii!&lt;/p&gt;</description>
+      <content>&lt;p&gt;General Kenobiiii!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/contact/contact/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/lucaslricci&#34;&gt;Linktree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/lucaslricci/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.com/users/286304385674248193&#34;&gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@lucasricci&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lr.lucasricci@gmail.com?subject=Contact%20from%20site&#34;&gt;E-Mail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/lucaslricci&#34;&gt;Linktree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/lucaslricci/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.com/users/286304385674248193&#34;&gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@lucasricci&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lr.lucasricci@gmail.com?subject=Contact%20from%20site&#34;&gt;E-Mail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;Meu nome é Lucas, sou um desenvolvedor backend. Meu objetivo é tentar melhorar a qualidade de vida humana em alguma porcentagem.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Meu nome é Lucas, sou um desenvolvedor backend. Meu objetivo é tentar melhorar a qualidade de vida humana em alguma porcentagem.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>//localhost:1313/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/projects/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci&#34;&gt;Personal Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ManimCommunity/awesome-manim/&#34;&gt;Awesome Manim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci/cryptography-tools&#34;&gt;Cryptograph Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci/diceware&#34;&gt;Diceware Password Generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci&#34;&gt;Personal Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ManimCommunity/awesome-manim/&#34;&gt;Awesome Manim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci/cryptography-tools&#34;&gt;Cryptograph Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lucasricci/diceware&#34;&gt;Diceware Password Generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Recomendações</title>
+      <link>//localhost:1313/livro/livro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/livro/livro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Trilogia Duna&lt;/li&gt;
+&lt;li&gt;Eu, Rôbo!&lt;/li&gt;
+&lt;li&gt;Senhor dos Anéis&lt;/li&gt;
+&lt;li&gt;Guia do Mochileiro das Galáxias&lt;/li&gt;
+&lt;li&gt;Fundação&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;Trilogia Duna&lt;/li&gt;
+&lt;li&gt;Eu, Rôbo!&lt;/li&gt;
+&lt;li&gt;Senhor dos Anéis&lt;/li&gt;
+&lt;li&gt;Guia do Mochileiro das Galáxias&lt;/li&gt;
+&lt;li&gt;Fundação&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
